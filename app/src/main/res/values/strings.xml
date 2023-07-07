@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Swipe-Task</string>
+    <string name="product_name">Name</string>
+    <string name="price">Price</string>
+    <string name="tax">Tax</string>
+    <string name="add">Add</string>
+    <string name="upload">Upload Product Image</string>
+    <string name="search_products">Search Products</string>
+</resources>
